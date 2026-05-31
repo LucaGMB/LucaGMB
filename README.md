@@ -14,7 +14,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Soy Luca Guarna (@LucaGMB) estudiante de Informática con una obsesión por entender cómo funcionan las cosas. Siempre hay algo cocinándose en el horno.
+Soy Luca Guarna (@LucaGMB) estudiante de Informática con una obsesión por entender cómo funcionan las cosas.
 
 > [!IMPORTANT]
 > La mayoría de mis proyectos están en organizaciones: **[FrefLabs](https://github.com/FrefLabs)** y **[GreatXLabs](https://github.com/GreatXLabs)**.
