@@ -13,7 +13,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-Soy Luca Guarna (@LucaGMB) estudiante de Informática con una obsesión por entender cómo funcionan las cosas. Siempre hay algo en el horno.
+Soy Luca Guarna (@LucaGMB) estudiante de Informática con una obsesión por entender cómo funcionan las cosas. Siempre hay algo cocinándose en el horno.
 
 > [!IMPORTANT]
 > La mayoría de mis proyectos están en organizaciones: **[FrefLabs](https://github.com/FrefLabs)** y **[GreatXLabs](https://github.com/GreatXLabs)**.
