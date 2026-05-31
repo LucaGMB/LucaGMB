@@ -25,7 +25,7 @@ Soy Luca Guarna (@LucaGMB) estudiante de Informática con una obsesión por ente
 
 **[FrefLabs](https://github.com/FrefLabs)** - El proyecto principal "N.T.I." es un sistema distribuido de predicción bursátil con redes neuronales.
 
-**[GreatXLabs](https://github.com/GreatXLabs)** - El proyecto principal "Ikaros" sistema de relevo de información y gestión basada en roles para misiones espaciales.
+**[GreatXLabs](https://github.com/GreatXLabs)** - El proyecto principal "Ikaros" es un sistema de relevo de información y gestión basada en roles para misiones espaciales.
 
 ---
 
